@@ -25,7 +25,7 @@ I love games/esports, music, super-heros and sci-fi movies, programming and cats
 Where do you find me? :mag:  
 
 
-<a href="https://www.linkedin.com/in/marciogpc/"><img src="https://github.com/KozielGPC/KozielGPC/blob/main/image/icons8-linkedin.svg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/marciogpc/)  
+<a href="https://www.linkedin.com/in/weber-souza7358/"><img src="https://github.com/WeberSouzaWeb/WeberSouzaWeb/blob/main/image/icons8-linkedin.svg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/weber-souza7358/)  
 
 <a href="mailto:gpcgabriel0@gmail.com"><img src="https://github.com/WeberSouzaWeb/WeberSouzaWeb/blob/main/image/email-svgrepo-com.svg" width="16"></img></a> [Email](mailto:weberv.souza@gmail.com)  
 
