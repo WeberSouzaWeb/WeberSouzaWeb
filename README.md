@@ -15,15 +15,8 @@
 
 ---
 
-Since 2016 programming, I am a computer science student, computer technician graduated in high school. 
-I'm currently trying to improve my skills in web development, using React, Node, SQL and these things. I also used to programm in Java and Python.
-
-
-
-I love games/esports, music, super-heros and sci-fi movies, programming and cats 
-
-Where do you find me? :mag:  
-
+Since 2016 programming, I am a aspiring AI Engineer, graduated in Univertiy Federal of Lavras. 
+I'm currently trying to improve my skills in web development, using React, Node, SQL and these things. I also used to programm in JavaScript and Python.
 
 <a href="https://www.linkedin.com/in/weber-souza7358/"><img src="https://github.com/WeberSouzaWeb/WeberSouzaWeb/blob/main/image/icons8-linkedin.svg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/weber-souza7358/)  
 
