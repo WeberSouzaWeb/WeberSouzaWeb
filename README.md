@@ -7,8 +7,7 @@
 
 ---
 
-Since 2016 programming, I am a aspiring AI Engineer, graduated in Univertiy Federal of Lavras. 
-I'm currently trying to improve my skills in web development, using React, Node, SQL and these things. I also used to programm in JavaScript and Python.
+Artificial Intelligence Engineer and Control & Automation Engineer with experience developing AI-powered applications, machine learning pipelines, conversational AI systems, data analytics solutions, and software products.
 
 <a href="https://www.linkedin.com/in/weber-souza7358/"><img src="https://github.com/WeberSouzaWeb/WeberSouzaWeb/blob/main/image/icons8-linkedin.svg" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/weber-souza7358/)  
 
